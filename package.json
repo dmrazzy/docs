@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@docusaurus/core": "2.2.0",
-    "@docusaurus/preset-classic": "2.2.0",
+    "@docusaurus/preset-classic": "2.4.3",
     "@docusaurus/theme-mermaid": "2.2.0",
     "@ethersproject/address": "^5.7.0",
     "@ethersproject/solidity": "^5.7.0",
